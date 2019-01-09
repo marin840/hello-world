@@ -1,2 +1,2 @@
 # hello-world
-print hello world
+Alles hat ein Ende
